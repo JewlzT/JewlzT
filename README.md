@@ -12,7 +12,7 @@ I'm a software engineer who loves to work on projects that allow for both artist
 
 ### Current Endeavors 
 - I’m currently working on: Expanding my portfolio by adding project descriptions .✦ ݁˖ [Portfolio](https://github.com/JewlzT/portfolio)
-- I’m currently learning: User experience and user interface design .✦ ݁˖ [Certificate 1 - Fundamentals of UI/UX Design](https://coursera.org/share/9004fba7b4500d8d15c875259efd650f) | [Certificate 2 - Designing for User Experience](https://coursera.org/share/a14ef53d65cd8a243d220e89c4988a54) | [Certificate 3 - User Interface Design and Prototyping](https://coursera.org/share/689d6fecc261e43910128210afefabc7)
+- I’m currently learning: User experience and user interface design .✦ ݁˖ [Microsoft UX Design](https://www.coursera.org/account/accomplishments/professional-cert/XZXB4WURJWIR)
 
 I've recently become a GitLab contributor! It's been an amazing experience learning how to contribute remotely to a large, established repository.  
 ![GitLab Contributor Stats](https://contributors.gitlab.com/users/JewlzT/banner.svg)
