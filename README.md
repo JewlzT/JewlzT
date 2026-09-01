@@ -9,10 +9,12 @@ I'm a software engineer who loves to work on projects that allow for both artist
 - **Languages:** JavaScript, TypeScript, Python, HTML/CSS
 - **Frameworks:** React, Node.js
 - **Tools:** Git, Figma
+- **Certifications:** [Microsoft UX Design](https://www.coursera.org/account/accomplishments/professional-cert/XZXB4WURJWIR)
 
 ### Current Endeavors 
 - I’m currently working on: Expanding my portfolio by adding project descriptions .✦ ݁˖ [Portfolio](https://github.com/JewlzT/portfolio)
-- I’m currently learning: User experience and user interface design .✦ ݁˖ [Microsoft UX Design](https://www.coursera.org/account/accomplishments/professional-cert/XZXB4WURJWIR)
+- I’m currently learning: AWS Cloud on Coursera .✦ ݁˖ 
+- My newest hobby: Crocheting (it's been a fun and relaxing pasttime!)
 
 I've recently become a GitLab contributor! It's been an amazing experience learning how to contribute remotely to a large, established repository.  
 ![GitLab Contributor Stats](https://contributors.gitlab.com/users/JewlzT/banner.svg)
