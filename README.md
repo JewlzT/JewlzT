@@ -13,7 +13,7 @@ I'm a software engineer who loves to work on projects that allow for both artist
 
 ### Current Endeavors 
 - I’m currently working on: Expanding my portfolio by adding project descriptions .✦ ݁˖ [Portfolio](https://github.com/JewlzT/portfolio)
-- I’m currently learning: AWS Cloud on Coursera .✦ ݁˖ 
+- I’m currently learning: GraphQL on Coursera .✦ ݁˖ 
 - My newest hobby: Crocheting (it's been a fun and relaxing pasttime!)
 
 I've recently become a GitLab contributor! It's been an amazing experience learning how to contribute remotely to a large, established repository.  
